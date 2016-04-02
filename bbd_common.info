@@ -1,0 +1,4 @@
+name = bbd common
+description = common module for middelware.
+package = Custom
+core = 7.x
